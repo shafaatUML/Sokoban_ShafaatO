@@ -6,7 +6,6 @@ Email: shafaat.osmani@gmail.com
 
 
 ## Description
-## The project displays the starter layout for a sokoban game by getting the layout from a text file, then using the text file as a key to display the starter layout. 
 ## The project now successfully simulates a sokoban game. 
 
 ## Acknowledgements
